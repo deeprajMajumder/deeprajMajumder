@@ -31,6 +31,8 @@ I'm an **Android Engineer** with **3+ years** of experience in building robust, 
 ### **Backend Development**
 - **Spring Framework**  
   - Building robust backend services and RESTful APIs.
+- **MongoDB**  
+  - Designing scalable and efficient data storage solutions for RESTful APIs.
 - **Redis Integration**  
   - Utilizing Redis for caching and high-performance data storage.
 
