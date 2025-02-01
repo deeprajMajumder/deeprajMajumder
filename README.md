@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Deepraj Majumdar
 
-I'm an **Android Engineer** with **3+ years** of experience in building robust, scalable mobile applications. I’m passionate about writing clean, efficient code and have hands-on experience in every stage of the app development lifecycle.
+I'm an **Android Engineer** with **3+ years** of experience in building robust, scalable mobile applications. I’m driven about writing clean, efficient code and have hands-on experience in every stage of the app development lifecycle.
 
 ---
 
@@ -12,6 +12,7 @@ I'm an **Android Engineer** with **3+ years** of experience in building robust, 
 - **Android SDK & Kotlin**  
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)  
   - Expertise in developing **multi-process applications** with **thread-safe mechanisms**.
+  - Deep understanding of native components of android SDK activity lifecycle, Broadcast Receivers, Content Providers, Services, Notification Manager, Key Store.
 - **Jetpack Compose**  
   ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=for-the-badge)  
   - Proficient in building dynamic UIs with Jetpack Compose.
@@ -67,7 +68,7 @@ Below is a list of technologies I work with. The icons (badges) used here are ge
 
 ## 📫 Get in Touch
 
-- **Email:** [deeprajmajumdarknight@gmail.com](mailto:deeprajmajumdarknight@gmail.com)
+- **Email:** [Deepraj Majumdar](mailto:deeprajmajumdarknight@gmail.com)
 - **LinkedIn:** [Deepraj Majumdar](https://www.linkedin.com/in/deepraj-majumdar/)
 
 ---
