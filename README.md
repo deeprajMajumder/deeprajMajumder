@@ -49,6 +49,7 @@ Below is a list of technologies I work with. The icons (badges) used here are ge
 | **FFmpeg**                   | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007ACC?style=flat-square) |
 | **Amazon Kinesis**           | ![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) |
 | **Spring Framework**         | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square) |
+| **MongoDB**                  | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 | **Redis**                    | ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square) |
 
 ---
