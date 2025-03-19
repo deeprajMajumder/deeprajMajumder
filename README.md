@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Deepraj Majumdar
 
-I'm an **Android Engineer** with **3+ years** of experience in building robust, scalable mobile applications. I’m driven about writing clean, efficient code and have hands-on experience in every stage of the app development lifecycle.
+I'm a proactive **Full stack mobile developer** with **3+ years** of experience. Specializing in Spring Boot, Android SDK, design patterns, and app architecture, with exposure in different IoT products. Focused on implementing clean code, optimising user experience.
 
 ---
 
